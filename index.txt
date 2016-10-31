@@ -1,2 +1,2 @@
-print('dfgfg');
-print('еще немного бреда');
+﻿print('dfgfg');
+
